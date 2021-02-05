@@ -1,0 +1,40 @@
+/*GENERAL*/
+body {
+  margin: auto;
+  text-align: left;
+}
+
+header {
+  background-color: cornflowerblue;
+  background-image: url('../img/pattern.png');
+  background-size: contain;
+  margin: auto;
+}
+
+#logo {
+  width: 100px;
+  padding-top: 18px;
+}
+
+.container {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.main-title {
+  margin-bottom: 1px;
+}
+
+.editor {
+  color: gray;
+  font-size: 10px;
+}
+
+.name {
+  color: cornflowerblue;
+}
+
+.date {
+  font-size: 8px;
+}
+
