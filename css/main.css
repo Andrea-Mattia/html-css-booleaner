@@ -56,3 +56,20 @@ header {
   padding-left: 0;
   margin-left: 0;
 }
+
+.tab {
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.testa {
+  background-color: #5993ff;
+}
+
+.tab-head {
+  width: 33%;
+}
+
+.corpo {
+  background-color: lightblue;
+}
