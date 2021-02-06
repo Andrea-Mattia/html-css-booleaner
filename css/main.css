@@ -9,10 +9,11 @@ header {
   background-image: url('../img/pattern.png');
   background-size: contain;
   margin: auto;
+  max-width: 100%;
 }
 
 #logo {
-  width: 100px;
+  width: 120px;
   padding-top: 18px;
 }
 
@@ -48,4 +49,10 @@ header {
 
 .first-p {
   background-color: yellow;
+}
+
+.un-list {
+  list-style-position: inside;
+  padding-left: 0;
+  margin-left: 0;
 }
